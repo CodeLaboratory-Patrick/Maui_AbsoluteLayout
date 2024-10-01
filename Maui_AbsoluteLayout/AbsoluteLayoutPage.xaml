@@ -6,7 +6,7 @@
              BackgroundColor="DarkRed">
     <AbsoluteLayout>
         <Button Text="Click Me!" 
-                AbsoluteLayout.LayoutBounds="0, 300, 250, 100"
+                AbsoluteLayout.LayoutBounds="0, 300, 1, .5"
                 AbsoluteLayout.LayoutFlags="HeightProportional"/>
         <!-- AbsoluteLayout.LayoutBounds="x,y,w,h"-->
             <Button Text=".NET MAUI!"/>
