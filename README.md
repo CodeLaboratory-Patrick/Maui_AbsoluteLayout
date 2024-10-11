@@ -311,8 +311,7 @@ In .NET MAUI, **AbsoluteLayout.LayoutFlags** is a property that allows developer
 - [.NET MAUI Documentation](https://learn.microsoft.com/en-us/dotnet/maui/)
 - [Microsoft Learn - AbsoluteLayout](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/absolutelayout)
 - [Xamarin AbsoluteLayout (similar principles apply to MAUI)](https://learn.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/layouts/absolutelayout)
-- [Xamarin AbsoluteLayout (similar principles apply to MAUI)](https://learn.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/layouts/absolutelayout)
-
+- 
 # AbsoluteLayout.LayoutFlags="SizeProportional,XProportional" in C# MAUI
 
 ## What is AbsoluteLayout.LayoutFlags="SizeProportional,XProportional"?
